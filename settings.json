@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KHAMEKI",
-    "password": "",
+    "username": "iiu",
+    "password": "kamel",
     "type": "offline"
   },
   "server": {
     "ip": "unooqq.aternos.me",
     "port": 17204,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
